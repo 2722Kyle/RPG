@@ -1,0 +1,260 @@
+{
+    "Weapons": [
+        {
+            "Name": "Iron Sword",
+            "Description": "A well crafted iron sword.",
+            "Damage": 10
+        },
+        {
+            "Name": "Steel Sword",
+            "Description": "A sword for the experienced adventurer.",
+            "Damage": 15
+        },
+        {
+            "Name": "Mythril Sword",
+            "Description": "A sword that has seen many battles.",
+            "Damage": 20
+        },
+        {
+            "Name": "Knight's Vow",
+            "Description": "Once belonging to a knight of legends. Said to have been lost.",
+            "Damage": 30
+        },
+        {
+            "Name": "Oak Longbow",
+            "Description": "A beautiful longbow made of luxurious Oak.",
+            "Damage": 12
+        },
+        {
+            "Name": "Willow Longbow",
+            "Description": "Beautiful longbow made of willow. Trusted by many rangers.",
+            "Damage": 18
+        },
+        {
+            "Name": "Magic Bow",
+            "Description": "A bow infused with magic. Legends say it never misses.",
+            "Damage": 22
+        },
+        {
+            "Name": "Robin Hoood",
+            "Description": "Signature bow of Robin Hood. Sought after by rangers worldwide.",
+            "Damage": 28
+        },
+        {
+            "Name": "Oak Staff",
+            "Description": "Reliable staff and perfect for the new wizard.",
+            "Damage": 12
+        },
+        {
+            "Name": "Willow Staff",
+            "Description": "A sturdy staff humming with power. Made from willow.",
+            "Damage": 15
+        },
+        {
+            "Name": "Adamantine Staff",
+            "Description": "A staff worthy of the best wizards. Made by several master craftsmans.",
+            "Damage": 24
+        },
+        {
+            "Name": "Demon's Grimroire",
+            "Description": "Book bound in leather as dark as night. Exudes a suffocating aura.",
+            "Damage": 35
+        },
+        {
+            "Name": "Wooden stick",
+            "Description": "Yeaaaa, you're probably going to die.",
+            "Damage": 1
+        }
+    ],
+    "Armor": [
+        {
+            "Name": "Iron Armor",
+            "Description": "This should protect me.",
+            "Defense": 25
+        },
+        {
+            "Name": "Steel Armor",
+            "Description": "This will definitely protect me.",
+            "Defense": 30
+        },
+        {
+            "Name": "Chainmail",
+            "Description": "Better than nothing.",
+            "Defense": 15
+        },
+        {
+            "Name": "Guardian's Mail",
+            "Description": "Armor worn by the Gods. Said to have been lost for centuries.",
+            "Defense": 50
+        },
+        {
+            "Name": "Ranger's Robe",
+            "Description": "Standard cloak given to rangers starting their journey.",
+            "Defense": 8
+        },
+        {
+            "Name": "Leather Armor",
+            "Description": "Perfect for a Ranger.",
+            "Defense": 10
+        },
+        {
+            "Name": "Hard Leather Armor",
+            "Description": "Hardened leather for more protection.",
+            "Defense": 15
+        },
+        {
+            "Name": "Memories of Legolas",
+            "Description": "Cloak worn by the legendary marksman Legolas.",
+            "Defense": 20
+        },
+        {
+            "Name": "Cloth Robe",
+            "Description": "Offers little protection. Looks cool though.",
+            "Defense": 10
+        },
+        {
+            "Name": "Linen Robe",
+            "Description": "Linen robe infused with magic throughout its threads.",
+            "Defense": 12
+        },
+        {
+            "Name": "Golden Fleece",
+            "Description": "Robe made of rare golden fleece. Brimming with power.",
+            "Defense": 18
+        },
+        {
+            "Name": "Phoenix Plume",
+            "Description": "Strikingly beautiful crimson red cloak, said to have been woven by the Gods.",
+            "Defense": 25
+        },
+        {
+            "Name": "Wooden Buckler",
+            "Description": "A round piece of wood. Came from a barrel or something.",
+            "Defense": 3
+        },
+        {
+            "Name": "Steel Buckeler",
+            "Description": "Small steel shield for the agile warrior.",
+            "Defense": 8
+        },
+        {
+            "Name": "Steel Kiteshield",
+            "Description": "Large steel shield used frequenctly by knights.",
+            "Defense": 12
+        },
+        {
+            "Name": "Hylian Shield",
+            "Description": "This shouldn't belong in this game but here it is.",
+            "Defense": 20
+        },
+        {
+            "Name": "Piece of cloth",
+            "Description": "Why would you even bother?",
+            "Defense": 1
+        }
+    ],
+    "Health Potions": [
+        {
+            "Name": "Lesser Health Potion",
+            "Description": "Heals 10 health.",
+            "Heal_amount": 10
+        },
+        {
+            "Name": "Medium Health Potion",
+            "Description": "Heals 20 health.",
+            "Heal_amount": 20
+        },
+        {
+            "Name": "Greater Health Potion",
+            "Description": "Heals 30 Health.",
+            "Heal_amount": 30
+        },
+        {
+            "Name": "Major Health Potion",
+            "Description": "Heals 40 health.",
+            "Heal_amount": 40
+        },
+        {
+            "Name": "Massive Health Potion",
+            "Description": "Heals 50 health.",
+            "Heal_amount": 50
+        },
+        {
+            "Name": "Ambrosia",
+            "Description": "Heals all health.",
+            "Heal_amount": 100
+        },
+        {
+            "Name": "Apple",
+            "Description": "Just an apple.",
+            "Heal_amount": 3
+        },
+        {
+            "Name": "Rations",
+            "Description": "Variety of preserved foods fit for traveling.",
+            "Heal_amount": 8
+        },
+        {
+            "Name": "Orange",
+            "Description": "The pirates love eating these...",
+            "Heal_amount": 3
+        },
+        {
+            "Name": "Rotten apple",
+            "Description": "I wouldn't if I were you.",
+            "Heal_amount": 0
+        }
+    ],
+    "Mana Potions": [
+        {
+            "Name": "Lesser Mana Potion",
+            "Description": "Recovers 10 mana.",
+            "Rec_amount": 10
+        },
+        {
+            "Name": "Medium Mana Potion",
+            "Description": "Recover 15 mana.",
+            "Rec_amount": 15
+        },
+        {
+            "Name": "Greater Mana Potion",
+            "Description": "Recover 20 mana.",
+            "Rec_amount": 20
+        },
+        {
+            "Name": "Major Mana Potion",
+            "Description": "Recover 25 mana.",
+            "Rec_amount": 25
+        },
+        {
+            "Name": "Massive Mana Potion",
+            "Description": "Recover 30 mana.",
+            "Rec_amount": 30
+        },
+        {
+            "Name": "Nectar",
+            "Description": "Recover 50 mana.",
+            "Rec_amount": 50
+        },
+        {
+            "Name": "Stale Ale",
+            "Description": "I forgot I had this but its better than nothing.",
+            "Rec_amount": 1
+        },
+        {
+            "Name": "Bottle of wine",
+            "Description": "Bottle of expensive looking wine. Might as well!",
+            "Rec_amount": 8
+        },
+        {
+            "Name": "Rotten juice",
+            "Description": "It doesn't even flow out of the flask.",
+            "Rec_amount": 0
+        },
+        {
+            "Name": "Canteen",
+            "Description": "Remember to stay hydrated!",
+            "Rec_amount": 3
+        }
+    ]
+}
